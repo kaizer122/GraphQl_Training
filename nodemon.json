@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER" : "kais",
+        "MONGO_PASSWORD": "a123456789",
+        "MONGO_DB": "graphql_learning"
+    }
+}
